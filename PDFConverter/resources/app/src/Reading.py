@@ -49,10 +49,8 @@ class Reading:
         text_dest = ''
 
         while f_counter < len(text_orig):
-            i_counter = f_counter + i_counter 
-
             if increment:
-                i_counter = i_counter + 1
+                i_counter = f_counter + 1
             else:
                 increment = True
 
