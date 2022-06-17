@@ -9,7 +9,7 @@
   "author": "Carlos Henrique Ponciano da Silva",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.1.0"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "python-shell": "^1.0.7"
